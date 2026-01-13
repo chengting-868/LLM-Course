@@ -59,5 +59,7 @@ ctrl+f cuda --> cpu
 另外有两个文件太大不方便上传，这里提供网盘链接：通过网盘分享的文件：Model等2个文件
 
 链接: https://pan.baidu.com/s/1WJ-BPtmT2ZbHl646D7MsBw?pwd=ywfe 提取码: ywfe 
+
 其中pytorch_model.bin放在bert-base-uncased文件夹中，Model文件夹在根目录
+
 
